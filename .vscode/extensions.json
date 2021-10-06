@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "trabpukcip.vscode-npm-scripts",
+    "bierner.markdown-mermaid",
+    "darkriszty.markdown-table-prettify"
+  ]
+}

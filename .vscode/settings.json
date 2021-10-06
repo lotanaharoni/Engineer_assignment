@@ -1,0 +1,12 @@
+{
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.autoSave": "afterDelay",
+  "files.associations": {
+    ".prettierrc": "json"
+  }
+}

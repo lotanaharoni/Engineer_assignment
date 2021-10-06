@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "noImplicitAny": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "declaration": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "strict": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "ES2019",
+    "lib": [
+      "esnext",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "preserveSymlinks": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "composite": true,
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src",
+    "../../declarations.d.ts"
+  ],
+}
